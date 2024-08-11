@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3505c1da7ac69624",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7deacaff4b874b2e",
@@ -153,6 +164,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d1f95139cb5772",
+  "active": "3505c1da7ac69624",
   "lastOpenFiles": [
+    "Algo Library.md",
     "readme.md",
     "Welcome.md"
   ]
