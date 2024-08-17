@@ -11,11 +11,40 @@
             "id": "e8c3b227ae0cf4e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/ModifierKeyTrigger_Result.png"
+              }
+            }
+          },
+          {
+            "id": "4513feae6a2fea56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencing Level Sequences with Cameras.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "793ab5051a075180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencing Level Sequences with Cameras.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Referencing Level Sequences with Cameras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Referencing Level Sequences with Cameras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Referencing Level Sequences with Cameras.md"
               }
             }
           }
@@ -143,16 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8c3b227ae0cf4e1",
+  "active": "4513feae6a2fea56",
   "lastOpenFiles": [
-    "Useful Hotkeys.md",
-    "Referencing Level Sequences with Cameras.md",
-    "Images/ModifierKeyTrigger_Result.png",
-    "Images/LoadLevelSequenceBlocking_Example.png",
-    "Images",
+    "readme.md",
     "Modifier Keys in Enhanced Input System.md",
     "Algo Library.md",
-    "readme.md",
+    "Useful Hotkeys.md",
+    "Images/ModifierKeyTrigger_Result.png",
+    "Referencing Level Sequences with Cameras.md",
+    "Images/LoadLevelSequenceBlocking_Example.png",
+    "Images",
     "Welcome.md"
   ]
 }
