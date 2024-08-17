@@ -7,7 +7,7 @@ tags:
 ---
 It does not appear that modifier keys for actions are natively supported in the new [[Enhanced Input System]]. However, they are trivial to implement.
 
-![[ModifierKeyTrigger_Result.png]]
+![ModifierKeyTrigger_Result.png](Images/ModifierKeyTrigger_Result.png)
 # C++
 ## ModifierKeyTrigger.h
 
