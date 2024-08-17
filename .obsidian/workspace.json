@@ -11,12 +11,9 @@
             "id": "e8c3b227ae0cf4e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Referencing Level Sequences with Cameras.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Images/ModifierKeyTrigger_Result.png"
               }
             }
           },
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Referencing Level Sequences with Cameras.md",
+                "file": "Images/ModifierKeyTrigger_Result.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Referencing Level Sequences with Cameras.md",
+                "file": "Images/ModifierKeyTrigger_Result.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Referencing Level Sequences with Cameras.md"
+                "file": "Images/ModifierKeyTrigger_Result.png"
               }
             }
           }
@@ -161,14 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8c3b227ae0cf4e1",
+  "active": "abe434c833e6300d",
   "lastOpenFiles": [
     "Modifier Keys in Enhanced Input System.md",
+    "Images/ModifierKeyTrigger_Result.png",
+    "Referencing Level Sequences with Cameras.md",
     "Algo Library.md",
     "Images/LoadLevelSequenceBlocking_Example.png",
     "readme.md",
     "Images",
-    "Referencing Level Sequences with Cameras.md",
     "Welcome.md"
   ]
 }
