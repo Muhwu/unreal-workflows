@@ -14,35 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "a083dfce53c2e856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Hotkeys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7589631c93e2715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content Browser Filters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Browser Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Browser Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content Browser Filters.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,16 +139,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7589631c93e2715",
+  "active": "e8c3b227ae0cf4e1",
   "lastOpenFiles": [
-    "Images/CreateNewContentBrowserFilterMenu.png",
-    "Images/CreateCustomContentBrowserFilter.png",
-    "Content Browser Filters.md",
-    "Modifier Keys in Enhanced Input System.md",
-    "Landscape Tips and Workflows.md",
-    "Bulk Editing Assets in Property Matrix.md",
+    "readme.md",
     "Useful Hotkeys.md",
     "The Unfeatured Features of Unreal Engine in 2024.md",
+    "Referencing Level Sequences with Cameras.md",
+    "Modifier Keys in Enhanced Input System.md",
+    "Landscape Tips and Workflows.md",
+    "Content Browser Filters.md",
+    "Bulk Editing Assets in Property Matrix.md",
+    "Algo Library.md",
+    "Images/CreateNewContentBrowserFilterMenu.png",
+    "Images/CreateCustomContentBrowserFilter.png",
     "Images/LandScapeLayerUsageDebugInfo.png",
     "Images/LandscapeGrassTypeAsset.png",
     "Images/NodeGrassTypeArray.png",
@@ -187,11 +159,8 @@
     "Images/LandscapeLayerInfoAssignments.png",
     "Images/BulkEditViaPropertyMatrix2.png",
     "Images/BulkEditViaPropertyMatrix1.png",
-    "Referencing Level Sequences with Cameras.md",
     "Images/ModifierKeyTrigger_Result.png",
     "Images",
-    "Algo Library.md",
-    "readme.md",
     "Welcome.md"
   ]
 }
