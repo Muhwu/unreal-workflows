@@ -21,4 +21,5 @@ To use grass via Landscape Grass types:
 ![Assign Grass Types](Images/NodeGrassTypeArray.png)
 ## Visualize Paint Layer Usage
 By default, you will simply see the color of the terrain unless your layer is configured otherwise. In order to visualize layer usage, you need to set the visualizer under the viewport:
+
 ![View Landscape Debug Info](Images/LandScapeLayerUsageDebugInfo.png)

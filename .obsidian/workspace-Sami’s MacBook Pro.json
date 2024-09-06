@@ -32,12 +32,9 @@
             "id": "c7589631c93e2715",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Content Browser Filters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Images/Pasted image 20240906150708.png"
               }
             }
           }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Browser Filters.md",
+                "file": "Images/Pasted image 20240906150708.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Browser Filters.md",
+                "file": "Images/Pasted image 20240906150708.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Browser Filters.md"
+                "file": "Images/Pasted image 20240906150708.png"
               }
             }
           }
@@ -170,14 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7589631c93e2715",
+  "active": "abe434c833e6300d",
   "lastOpenFiles": [
-    "Images/CreateNewContentBrowserFilterMenu.png",
-    "Images/CreateCustomContentBrowserFilter.png",
     "Content Browser Filters.md",
-    "Modifier Keys in Enhanced Input System.md",
-    "Landscape Tips and Workflows.md",
     "Bulk Editing Assets in Property Matrix.md",
+    "Images/Pasted image 20240906150808.png",
+    "Images/Pasted image 20240906150708.png",
+    "Landscape Tips and Workflows.md",
+    "Modifier Keys in Enhanced Input System.md",
     "Useful Hotkeys.md",
     "The Unfeatured Features of Unreal Engine in 2024.md",
     "Images/LandScapeLayerUsageDebugInfo.png",
